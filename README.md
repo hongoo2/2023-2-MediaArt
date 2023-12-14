@@ -9,4 +9,5 @@
 - pyaudio
 - portaudio(pyaudio 설치에 필요)
 ---
-전시모습 : https://youtube.com/shorts/PqSaWo9h4Ps?si=ZPl-JddI7VI4lbAj
+- 전시모습 : https://youtube.com/shorts/PqSaWo9h4Ps?si=ZPl-JddI7VI4lbAj
+- 이 프로젝트는 2023년 hongoo2에 의해 저작되었습니다. 모든 권리는 본인에게 있습니다.
